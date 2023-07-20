@@ -1,0 +1,42 @@
+{
+  "columns": [
+    {
+      "csvName": "country",
+      "dbName": "country",
+      "type": "text"
+    },
+    {
+      "csvName": "Time",
+      "dbName": "time",
+      "type": "text"
+    },
+    {
+      "csvName": "category_1",
+      "dbName": "category_1",
+      "type": "text"
+    },
+    {
+      "csvName": "category_2",
+      "dbName": "category_2",
+      "type": "text"
+    },
+    {
+      "csvName": "category_3",
+      "dbName": "category_3",
+      "type": "text"
+    },
+    {
+      "csvName": "category_4",
+      "dbName": "category_4",
+      "type": "text"
+    },
+    {
+      "csvName": "value",
+      "dbName": "value",
+      "type": "integer"
+    }
+  ],
+  "id": "main",
+  "name": "main",
+  "tableName": "debt"
+}
