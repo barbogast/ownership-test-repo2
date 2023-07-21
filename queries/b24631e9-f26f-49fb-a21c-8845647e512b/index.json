@@ -1,16 +1,21 @@
 {
+  "chartType": "pieChart",
   "databaseFileName": "",
   "databaseSource": {
     "type": "local",
     "url": "main"
   },
   "id": "b24631e9-f26f-49fb-a21c-8845647e512b",
-  "label": "New query",
+  "label": "Compare total debt between countries",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
-    "labelColumn": "",
-    "selectedColumns": []
+    "labelColumn": "time",
+    "selectedColumns": [
+      "value_fi",
+      "value_be",
+      "value_gr"
+    ]
   },
   "transformType": "config"
 }
