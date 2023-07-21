@@ -1,0 +1,16 @@
+{
+  "databaseFileName": "",
+  "databaseSource": {
+    "type": "local",
+    "url": "main"
+  },
+  "id": "b24631e9-f26f-49fb-a21c-8845647e512b",
+  "label": "New query",
+  "transformConfig": {
+    "dataOrientation": "row",
+    "dataRowIndex": 0,
+    "labelColumn": "",
+    "selectedColumns": []
+  },
+  "transformType": "config"
+}

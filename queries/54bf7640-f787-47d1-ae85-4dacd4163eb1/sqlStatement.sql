@@ -1,5 +1,4 @@
 select residents.time, residents, nonresidents from (
-    
     select sum(value) as residents, time from debt where country = 'greece' and category_2 = 'Residents' group by time
 ) as residents
 
