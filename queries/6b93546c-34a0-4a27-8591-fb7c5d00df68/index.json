@@ -1,0 +1,16 @@
+{
+  "databaseFileName": "",
+  "databaseSource": {
+    "type": "local",
+    "url": "main"
+  },
+  "id": "6b93546c-34a0-4a27-8591-fb7c5d00df68",
+  "label": "Show the ratio of each resident in Belgium",
+  "transformConfig": {
+    "dataOrientation": "row",
+    "dataRowIndex": 0,
+    "labelColumn": "",
+    "selectedColumns": []
+  },
+  "transformType": "config"
+}
