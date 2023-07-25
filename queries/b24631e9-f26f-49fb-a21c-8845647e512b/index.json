@@ -1,5 +1,5 @@
 {
-  "chartType": "pieChart",
+  "chartType": "barChart",
   "databaseFileName": "",
   "databaseSource": {
     "type": "local",
@@ -9,7 +9,7 @@
   "label": "Compare total debt between countries",
   "transformConfig": {
     "dataOrientation": "row",
-    "dataRowIndex": 0,
+    "dataRowIndex": 2,
     "labelColumn": "time",
     "selectedColumns": [
       "value_fi",
