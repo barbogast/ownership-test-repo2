@@ -2,8 +2,8 @@
   "chartType": "pieChart",
   "databaseFileName": "",
   "databaseSource": {
-    "type": "local",
-    "url": "main"
+    "id": "main",
+    "type": "local"
   },
   "id": "b24631e9-f26f-49fb-a21c-8845647e512b",
   "label": "Compare total debt between countries",

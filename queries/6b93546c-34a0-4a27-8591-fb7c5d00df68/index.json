@@ -1,16 +1,22 @@
 {
+  "chartType": "pieChart",
   "databaseFileName": "",
   "databaseSource": {
-    "type": "local",
-    "url": "main"
+    "id": "main",
+    "type": "local"
   },
   "id": "6b93546c-34a0-4a27-8591-fb7c5d00df68",
-  "label": "Show the ratio of each resident in Belgium",
+  "label": "Show the ratio of each resident in Greece",
   "transformConfig": {
     "dataOrientation": "row",
-    "dataRowIndex": 0,
-    "labelColumn": "",
-    "selectedColumns": []
+    "dataRowIndex": 5,
+    "labelColumn": "time",
+    "selectedColumns": [
+      "financial_corporations",
+      "non_financial_corporations",
+      "general_government",
+      "households_npish"
+    ]
   },
   "transformType": "config"
 }

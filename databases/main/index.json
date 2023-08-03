@@ -37,6 +37,6 @@
     }
   ],
   "id": "main",
-  "name": "main",
+  "label": "main",
   "tableName": "debt"
 }

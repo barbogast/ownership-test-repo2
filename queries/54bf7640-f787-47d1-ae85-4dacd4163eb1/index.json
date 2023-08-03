@@ -2,8 +2,8 @@
   "chartType": "lineChart",
   "databaseFileName": "",
   "databaseSource": {
-    "type": "local",
-    "url": "main"
+    "id": "main",
+    "type": "local"
   },
   "id": "54bf7640-f787-47d1-ae85-4dacd4163eb1",
   "label": "Greece: Residents vs Non-residents over time",
